@@ -1,4 +1,4 @@
-# This code is made by MRayan Asim
+# This code is made by Mohammed shadab
 # Packages needed:
 # pip install  pillow
 # Drawing Application Using Python
